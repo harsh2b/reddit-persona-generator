@@ -63,12 +63,12 @@ Create a file named `secrets.toml` inside the `.streamlit` directory. Add your c
 ```toml
 # .streamlit/secrets.toml
 
-[praw]
+
 client_id = "your_reddit_client_id"
 client_secret = "your_reddit_client_secret"
 user_agent = "your_reddit_user_agent"
 
-[groq]
+
 api_key = "your_groq_api_key"
 ```
 
